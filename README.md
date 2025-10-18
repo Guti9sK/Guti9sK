@@ -2,7 +2,7 @@
   🇪🇸 Español | <a href="#-hello-im-agustín-palma">🇬🇧 English</a>
 </p>
 
-# 👋 ¡Hola! Soy Agustín Palma
+# 👋 ¡Hola! Soy Agustín
 
 Soy una persona curiosa y en constante aprendizaje. Actualmente estoy enfocado en formarme como **Analista de Datos**, aplicando herramientas como **Excel**, **SQL** y **Power BI** para resolver problemas reales y tomar decisiones basadas en datos.
 
@@ -48,7 +48,7 @@ Gracias por visitar mi perfil. Estoy abierto a colaborar en proyectos o seguir a
   <a href="#-hola-soy-agustín-palma">🇪🇸 Español</a> | 🇬🇧 English
 </p>
 
-# 👋 Hello! I'm Agustín Palma
+# 👋 Hello! I'm Agustín
 
 I'm a curious and constantly learning person. I'm currently focused on becoming a **Data Analyst**, applying tools like **Excel**, **SQL**, and **Power BI** to solve real-world problems and support data-driven decision-making.
 
