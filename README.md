@@ -27,7 +27,7 @@ Mi objetivo es aplicar estas herramientas para **transformar datos en informaci�
 
 ## 🚀 Proyectos destacados
 
-### 🏢 Mini ERP — Excel/VBA
+### 🏢 [Mini ERP — Excel/VBA](LINK_DEL_REPOSITORIO_ERP)
 
 Sistema ERP desarrollado en **Excel y VBA**, orientado a la gestión de procesos comerciales y administrativos.
 
@@ -35,13 +35,19 @@ Incluye flujos integrados de documentos, gestión de inventario, pagos, trazabil
 
 **Tecnologías:** Excel · VBA · UserForms · Data Management
 
-### 📊 Sales Performance Dashboard
+### 📊 [Sales Dashboard — Electronova](https://github.com/Guti9sK/sales-dashboard-electronova)
 
-Dashboard desarrollado en **Excel** para analizar indicadores de ventas y desempeño.
+Dashboard desarrollado en **Excel** para analizar indicadores de ventas y desempeño mediante KPIs y visualizaciones.
 
-**Tecnologías:** Excel · Power Query · Data Visualization · KPIs
+**Tecnologías:** Excel · Dashboard · KPIs · Data Analysis
 
-### 🏠 Airbnb Data Analysis
+### 📈 [Sales Performance Dashboard](https://github.com/Guti9sK/sales-performance-dashboard)
+
+Dashboard de **Excel** orientado al análisis del desempeño de ventas y visualización de indicadores de negocio.
+
+**Tecnologías:** Excel · Power Query · Data Analysis · KPIs
+
+### 🏠 [Airbnb Data Analysis — Mexico City](https://github.com/Guti9sK/airbnb-dashboard-mexico-city)
 
 Proyecto de análisis y visualización de datos desarrollado en **Power BI**, utilizando datos de Airbnb para explorar patrones y generar insights.
 
@@ -127,7 +133,7 @@ My goal is to use these tools to **turn data into useful information and develop
 
 ## 🚀 Featured Projects
 
-### 🏢 Mini ERP — Excel/VBA
+### 🏢 [Mini ERP — Excel/VBA](LINK_DEL_REPOSITORIO_ERP)
 
 An ERP system developed in **Excel and VBA**, designed to manage commercial and administrative processes.
 
@@ -135,13 +141,19 @@ It includes integrated document workflows, inventory management, payments, docum
 
 **Technologies:** Excel · VBA · UserForms · Data Management
 
-### 📊 Sales Performance Dashboard
+### 📊 [Sales Dashboard — Electronova](https://github.com/Guti9sK/sales-dashboard-electronova)
 
-An **Excel** dashboard designed to analyze sales performance and key business indicators.
+An **Excel** dashboard designed to analyze sales performance and key business indicators through KPIs and visualizations.
 
-**Technologies:** Excel · Power Query · Data Visualization · KPIs
+**Technologies:** Excel · Dashboard · KPIs · Data Analysis
 
-### 🏠 Airbnb Data Analysis
+### 📈 [Sales Performance Dashboard](https://github.com/Guti9sK/sales-performance-dashboard)
+
+An **Excel** dashboard focused on sales performance analysis and business indicator visualization.
+
+**Technologies:** Excel · Power Query · Data Analysis · KPIs
+
+### 🏠 [Airbnb Data Analysis — Mexico City](https://github.com/Guti9sK/airbnb-dashboard-mexico-city)
 
 A **Power BI** data analysis and visualization project using Airbnb data to explore patterns and generate insights.
 
