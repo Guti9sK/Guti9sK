@@ -4,101 +4,98 @@
 
 # 👋 ¡Hola! Soy Agustín
 
-Soy una persona curiosa y en constante aprendizaje, enfocada en desarrollarme como **Analista de Datos**. Trabajo con herramientas como **Excel, SQL y Power BI** para analizar información, crear dashboards y desarrollar soluciones orientadas a datos y procesos de negocio.
+Estoy desarrollando mi perfil profesional como **Data Analyst**, con interés en el análisis de datos, Business Intelligence y la automatización de procesos de negocio.
 
-También tengo interés en **Business Intelligence, reporting y automatización con Excel/VBA**, áreas que complemento con mi experiencia previa en desarrollo web.
+Trabajo con **Excel, Power Query, SQL y Power BI** para explorar información, analizar indicadores y desarrollar soluciones orientadas a mejorar procesos y apoyar la toma de decisiones. También cuento con una base en desarrollo web, programación y resolución de problemas.
 
 ---
 
-## 🎯 Enfoque actual
+## 🎯 Áreas de interés
 
-Estoy desarrollando habilidades en:
+- 📊 **Data Analysis:** exploración, transformación e interpretación de datos.
+- 📈 **Business Intelligence & Reporting:** KPIs, dashboards y visualización de información.
+- 🧮 **Excel & Power Query:** análisis de datos y automatización de tareas.
+- 🗃️ **SQL:** consultas y exploración de datos.
+- ⚙️ **Excel/VBA:** automatización de procesos y desarrollo de soluciones empresariales.
 
-* 📊 **Análisis de Datos** — exploración, limpieza y transformación de datos
-* 📈 **Business Intelligence & Reporting** — dashboards, KPIs y visualización de información
-* 🧮 **Excel & Power Query** — análisis, transformación y automatización de procesos
-* 🗃️ **SQL** — consultas, análisis y exploración de datos
-* 📊 **Power BI** — visualización y creación de dashboards
-* ⚙️ **Excel/VBA** — automatización y desarrollo de soluciones para procesos de negocio
-
-Mi objetivo es aplicar estas herramientas para **transformar datos en información útil y desarrollar soluciones que ayuden a mejorar procesos y apoyar la toma de decisiones**.
+Mi objetivo es seguir fortaleciendo estas habilidades mediante proyectos prácticos que conecten los datos con necesidades reales del negocio.
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### 🏢 [Mini ERP — Excel/VBA](https://github.com/Guti9sK/mini-erp-system-excel)
-
-Sistema ERP desarrollado en **Excel y VBA**, orientado a la gestión de procesos comerciales y administrativos.
-
-Incluye flujos integrados de documentos, gestión de inventario, pagos, trazabilidad entre documentos, formularios interactivos y un dashboard de seguimiento.
-
-**Tecnologías:** Excel · VBA · UserForms · Data Management
-
-### 📊 [Sales Dashboard — Electronova](https://github.com/Guti9sK/sales-dashboard-electronova)
-
-Dashboard desarrollado en **Excel** para analizar indicadores de ventas y desempeño mediante KPIs y visualizaciones.
-
-**Tecnologías:** Excel · Dashboard · KPIs · Data Analysis
-
-### 📈 [Sales Performance Dashboard](https://github.com/Guti9sK/sales-performance-dashboard)
-
-Dashboard de **Excel** orientado al análisis del desempeño de ventas y visualización de indicadores de negocio.
-
-**Tecnologías:** Excel · Power Query · Data Analysis · KPIs
-
 ### 🏠 [Airbnb Data Analysis — Mexico City](https://github.com/Guti9sK/airbnb-dashboard-mexico-city)
 
-Proyecto de análisis y visualización de datos desarrollado en **Power BI**, utilizando datos de Airbnb para explorar patrones y generar insights.
+Proyecto de análisis y visualización de datos con **Power BI**, enfocado en explorar información del mercado de Airbnb en Ciudad de México e identificar patrones relevantes.
 
 **Tecnologías:** Power BI · Data Analysis · Data Visualization
 
----
+### 🏢 [Mini ERP — Excel/VBA](https://github.com/Guti9sK/mini-erp-system-excel)
 
-## 💻 Experiencia técnica previa
+Sistema de gestión empresarial desarrollado con **Excel y VBA**, diseñado para integrar procesos comerciales y administrativos mediante flujos de documentos relacionados.
 
-Antes de enfocarme en análisis de datos, me formé en **desarrollo web**, adquiriendo experiencia práctica con:
+Incluye gestión de inventario, pagos, notas de crédito, reversas, trazabilidad documental, formularios interactivos y un dashboard operativo.
 
-* HTML
-* CSS
-* JavaScript
-* TypeScript
-* React
-* Git y control de versiones
-* Desarrollo de sitios web responsivos
+El proyecto cuenta con documentación técnica, demostraciones en video y nueve casos de prueba funcionales superados.
 
-Esta experiencia me proporcionó una base sólida en **lógica de programación, resolución de problemas, desarrollo de interfaces y organización de proyectos**.
+**Tecnologías:** Excel · VBA · UserForms · Business Process Automation · Data Management
 
-Algunos de estos proyectos continúan disponibles en este perfil como parte de mi trayectoria y aprendizaje.
+### 📈 [Sales Performance Dashboard](https://github.com/Guti9sK/sales-performance-dashboard)
+
+Dashboard desarrollado en **Excel**, orientado al seguimiento del desempeño de ventas y la visualización de indicadores de negocio. Incluye el uso de Power Query como parte del flujo de preparación de datos.
+
+**Tecnologías:** Excel · Power Query · KPIs · Data Visualization
+
+### 📊 [Sales Dashboard — Electronova](https://github.com/Guti9sK/sales-dashboard-electronova)
+
+Dashboard de ventas desarrollado en **Excel**, enfocado en presentar indicadores y visualizaciones para facilitar el seguimiento del desempeño comercial.
+
+**Tecnologías:** Excel · Dashboards · KPIs · Business Reporting
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-**Data & BI**
+**Data Analysis & Business Intelligence**
 
 `Excel` · `Power Query` · `SQL` · `Power BI`
 
 **Automation & Business Systems**
 
-`VBA` · `Excel UserForms` · `Data Management`
+`VBA` · `Excel UserForms` · `Business Process Automation`
 
 **Web Development**
 
 `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React`
 
-**Tools**
+**Tools & Version Control**
 
 `Git` · `GitHub`
 
 ---
 
+## 💻 Experiencia técnica previa
+
+Mi formación previa en **desarrollo web** me permitió desarrollar una base en programación, lógica, resolución de problemas, desarrollo de interfaces y organización de proyectos.
+
+He trabajado con tecnologías como:
+
+- HTML y CSS
+- JavaScript y TypeScript
+- React
+- Git y GitHub
+- Desarrollo de interfaces responsivas
+
+Esta experiencia complementa mi formación en análisis de datos y automatización, especialmente en la estructuración de soluciones y el tratamiento de problemas técnicos.
+
+---
+
 ## 📫 Contacto
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-palma-460511318/)
-* 📍 Argentina
+- 💼 [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-palma-460511318/)
+- 📍 Argentina
 
-Gracias por visitar mi perfil. Estoy interesado en oportunidades relacionadas con **Data Analysis, Business Intelligence, Reporting, Operations y roles orientados al manejo y análisis de datos**.
+Gracias por visitar mi perfil. Estoy interesado en oportunidades relacionadas con **Data Analysis, Business Intelligence, Reporting, Operations y roles orientados al análisis y la gestión de datos**.
 
 ---
 
@@ -110,98 +107,95 @@ Gracias por visitar mi perfil. Estoy interesado en oportunidades relacionadas co
 
 # 👋 Hello! I'm Agustín
 
-I'm a curious and constantly learning person focused on developing my career as a **Data Analyst**. I work with tools such as **Excel, SQL, and Power BI** to analyze data, build dashboards, and develop solutions related to data and business processes.
+I'm building my professional profile as a **Data Analyst**, with an interest in data analysis, Business Intelligence, and business process automation.
 
-I'm also interested in **Business Intelligence, reporting, and Excel/VBA automation**, complemented by my previous experience in web development.
+I work with **Excel, Power Query, SQL, and Power BI** to explore information, analyze metrics, and develop solutions that improve processes and support decision-making. I also have a background in web development, programming, and problem-solving.
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Areas of Interest
 
-I'm developing skills in:
+- 📊 **Data Analysis:** data exploration, transformation, and interpretation.
+- 📈 **Business Intelligence & Reporting:** KPIs, dashboards, and data visualization.
+- 🧮 **Excel & Power Query:** data analysis and task automation.
+- 🗃️ **SQL:** querying and data exploration.
+- ⚙️ **Excel/VBA:** process automation and business solution development.
 
-* 📊 **Data Analysis** — data exploration, cleaning, and transformation
-* 📈 **Business Intelligence & Reporting** — dashboards, KPIs, and data visualization
-* 🧮 **Excel & Power Query** — analysis, transformation, and process automation
-* 🗃️ **SQL** — querying, analysis, and data exploration
-* 📊 **Power BI** — data visualization and dashboard development
-* ⚙️ **Excel/VBA** — automation and business process solutions
-
-My goal is to use these tools to **turn data into useful information and develop solutions that improve processes and support decision-making**.
+My goal is to continue strengthening these skills through practical projects that connect data with real business needs.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏢 [Mini ERP — Excel/VBA](https://github.com/Guti9sK/mini-erp-system-excel)
-
-An ERP system developed in **Excel and VBA**, designed to manage commercial and administrative processes.
-
-It includes integrated document workflows, inventory management, payments, document traceability, interactive forms, and a monitoring dashboard.
-
-**Technologies:** Excel · VBA · UserForms · Data Management
-
-### 📊 [Sales Dashboard — Electronova](https://github.com/Guti9sK/sales-dashboard-electronova)
-
-An **Excel** dashboard designed to analyze sales performance and key business indicators through KPIs and visualizations.
-
-**Technologies:** Excel · Dashboard · KPIs · Data Analysis
-
-### 📈 [Sales Performance Dashboard](https://github.com/Guti9sK/sales-performance-dashboard)
-
-An **Excel** dashboard focused on sales performance analysis and business indicator visualization.
-
-**Technologies:** Excel · Power Query · Data Analysis · KPIs
-
 ### 🏠 [Airbnb Data Analysis — Mexico City](https://github.com/Guti9sK/airbnb-dashboard-mexico-city)
 
-A **Power BI** data analysis and visualization project using Airbnb data to explore patterns and generate insights.
+A **Power BI** data analysis and visualization project focused on exploring Airbnb market data in Mexico City and identifying relevant patterns.
 
 **Technologies:** Power BI · Data Analysis · Data Visualization
 
----
+### 🏢 [Mini ERP — Excel/VBA](https://github.com/Guti9sK/mini-erp-system-excel)
 
-## 💻 Previous Technical Experience
+A business management system developed with **Excel and VBA**, designed to integrate commercial and administrative processes through linked document workflows.
 
-Before focusing on data analysis, I studied **web development**, gaining practical experience with:
+Features include inventory management, payments, credit notes, reversals, document traceability, interactive forms, and an operational dashboard.
 
-* HTML
-* CSS
-* JavaScript
-* TypeScript
-* React
-* Git and version control
-* Responsive web development
+The project includes technical documentation, video demonstrations, and nine successfully passed functional test cases.
 
-This experience gave me a strong foundation in **programming logic, problem-solving, interface development, and project organization**.
+**Technologies:** Excel · VBA · UserForms · Business Process Automation · Data Management
 
-Some of these projects are still available on this profile as part of my technical background and learning journey.
+### 📈 [Sales Performance Dashboard](https://github.com/Guti9sK/sales-performance-dashboard)
+
+An **Excel** dashboard focused on sales performance monitoring and business indicator visualization. Power Query is used as part of the data preparation workflow.
+
+**Technologies:** Excel · Power Query · KPIs · Data Visualization
+
+### 📊 [Sales Dashboard — Electronova](https://github.com/Guti9sK/sales-dashboard-electronova)
+
+An **Excel** sales dashboard designed to present key indicators and visualizations for monitoring commercial performance.
+
+**Technologies:** Excel · Dashboards · KPIs · Business Reporting
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-**Data & BI**
+**Data Analysis & Business Intelligence**
 
 `Excel` · `Power Query` · `SQL` · `Power BI`
 
 **Automation & Business Systems**
 
-`VBA` · `Excel UserForms` · `Data Management`
+`VBA` · `Excel UserForms` · `Business Process Automation`
 
 **Web Development**
 
 `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React`
 
-**Tools**
+**Tools & Version Control**
 
 `Git` · `GitHub`
 
 ---
 
+## 💻 Previous Technical Experience
+
+My previous background in **web development** helped me build a foundation in programming, logic, problem-solving, interface development, and project organization.
+
+I have worked with technologies such as:
+
+- HTML and CSS
+- JavaScript and TypeScript
+- React
+- Git and GitHub
+- Responsive interface development
+
+This experience complements my development in data analysis and automation, particularly when structuring solutions and solving technical problems.
+
+---
+
 ## 📫 Contact
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-palma-460511318/)
-* 📍 Argentina
+- 💼 [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-palma-460511318/)
+- 📍 Argentina
 
 Thanks for visiting my profile! I'm interested in opportunities related to **Data Analysis, Business Intelligence, Reporting, Operations, and data-focused roles**.
