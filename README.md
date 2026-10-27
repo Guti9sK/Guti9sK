@@ -27,7 +27,7 @@ Mi objetivo es aplicar estas herramientas para **transformar datos en informaci�
 
 ## 🚀 Proyectos destacados
 
-### 🏢 [Mini ERP — Excel/VBA](LINK_DEL_REPOSITORIO_ERP)
+### 🏢 [Mini ERP — Excel/VBA](https://github.com/Guti9sK/mini-erp-system-excel)
 
 Sistema ERP desarrollado en **Excel y VBA**, orientado a la gestión de procesos comerciales y administrativos.
 
@@ -133,7 +133,7 @@ My goal is to use these tools to **turn data into useful information and develop
 
 ## 🚀 Featured Projects
 
-### 🏢 [Mini ERP — Excel/VBA](LINK_DEL_REPOSITORIO_ERP)
+### 🏢 [Mini ERP — Excel/VBA](https://github.com/Guti9sK/mini-erp-system-excel)
 
 An ERP system developed in **Excel and VBA**, designed to manage commercial and administrative processes.
 
